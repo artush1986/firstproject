@@ -1,0 +1,55 @@
+.pic
+{
+     /*margin-top:50px;*/ 
+     width:120px;
+     /*margin-left:50px;*/
+     margin-bottom:-60px;
+}
+
+.panel
+{
+    background-image:url("http://autoimagesize.com/wp-content/uploads/2014/01/rainbow-aurora-background-wallpaper-colour-images-rainbow-background.jpg"); 
+}
+
+.name
+{
+    position:absolute;
+    padding-left:200px;
+    font-size:30px;
+}
+
+.dropdown
+{
+    position:absolute;
+}
+
+.change
+{
+ position:relative; 
+ bottom:20px;
+ padding:1px;
+ color:white;
+ text-decoration:none;
+}
+
+
+.change:hover
+{
+ text-decoration:none;
+ background-color:black;
+ color:white;
+}
+
+.friend_li{
+    float: left;
+    border: 1px solid black;
+    width: 250px;
+    height: 150px;
+
+} 
+.wall{
+    height: 180px;
+    width: 500px;
+    overflow: auto;
+}
+
